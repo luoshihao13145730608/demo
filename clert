@@ -1,0 +1,36 @@
+[33mcommit 78ee2cccc4cbf012679cc92f18823773629d2087[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 21:52:23 2019 +0800
+
+    这是我的第三次提交
+
+[33mcommit 32937f877f074f181155b58fd961b8e64c528701[m
+Merge: c44a71b 68c08b2
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 16:39:28 2019 +0800
+
+    Merge branch 'master' of https://github.com/luoshihao13145730608/demo
+
+[33mcommit c44a71b5b70463719a9a8eec25cc9fc54a670d97[m
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 16:37:39 2019 +0800
+
+    work2的第一次提交
+
+[33mcommit 587698df50c0e82442f1960dfa8ff1a4f02e2bc2[m
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 16:34:22 2019 +0800
+
+    second commit
+
+[33mcommit 68c08b25172c06df0c9a2701b5e3affe84d82002[m
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 16:22:31 2019 +0800
+
+    第二次
+
+[33mcommit 0ac05c83ff94743f49f2fef5b2492fe49c2b3c89[m
+Author: luoshihao <1063838433@qq.com>
+Date:   Tue Dec 24 16:12:51 2019 +0800
+
+    first commit
